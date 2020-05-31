@@ -1,6 +1,6 @@
-# anki-myaddon
+# kindle-married-anki
 
-This is my template of Anki add-on developing.
+Use this add-on to import Kindle clippings and vocabulary builder.
 
 
 
