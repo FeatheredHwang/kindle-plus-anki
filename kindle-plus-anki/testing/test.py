@@ -19,6 +19,11 @@ def do_test():
     logging.info('Hello World!')
 
 
+def parse_text_clippings(file):
+    clippings = []
+    bad_clippings = []
+
+
 test_action = QAction("TEST", mw)
 test_action.triggered.connect(do_test)
 mw.form.menuTools.addAction(test_action)
